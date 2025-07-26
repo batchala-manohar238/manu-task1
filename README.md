@@ -7,7 +7,7 @@ INTERN ID:CTO6DH521
 
 DOMAIN:FULL STACK WEB DEVELOPMENT
 
-DURATION:4 WEEKS
+DURATION:6 WEEKS
 
 ## 📌 Internship Task
 This project is submitted as **Task 1** for the **Full Stack Development Internship at CODTECH**. The task involves building a **responsive webpage** that fetches and displays data from a **public API INTEGRATION**.
